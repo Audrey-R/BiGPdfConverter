@@ -57,7 +57,7 @@
             this.SelectFile.Font = new System.Drawing.Font("Calibri", 9.818182F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.SelectFile.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.SelectFile.Image = ((System.Drawing.Image)(resources.GetObject("SelectFile.Image")));
-            this.SelectFile.Location = new System.Drawing.Point(114, 76);
+            this.SelectFile.Location = new System.Drawing.Point(115, 77);
             this.SelectFile.Name = "SelectFile";
             this.SelectFile.Size = new System.Drawing.Size(60, 67);
             this.SelectFile.TabIndex = 1;
@@ -105,7 +105,7 @@
             // 
             // progressBar
             // 
-            this.progressBar.Location = new System.Drawing.Point(17, 164);
+            this.progressBar.Location = new System.Drawing.Point(17, 163);
             this.progressBar.Name = "progressBar";
             this.progressBar.Size = new System.Drawing.Size(254, 12);
             this.progressBar.TabIndex = 6;

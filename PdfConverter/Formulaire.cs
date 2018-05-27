@@ -2,6 +2,7 @@
 using System.ComponentModel;
 using System.Windows.Forms;
 using Microsoft.Office.Interop.Word;
+using PdfConverterLibrary;
 
 namespace PdfConverter
 {
